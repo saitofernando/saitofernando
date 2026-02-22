@@ -2,6 +2,7 @@
 
 [![Microsoft Outlook Badge](https://img.shields.io/badge/-fernandosaito@hotmail.com.br-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white&link=mailto:fernandosaito@hotmail.com.br)](mailto:fernandosaito@hotmail.com.br)
 [![LinkedIn Badge](https://img.shields.io/badge/-Fernando%20Saito-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/saitofernando/)](https://www.linkedin.com/in/saitofernando/)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5567996240689)](https://wa.me/5567996240689)
 
 Sou **Supervisor de Tecnologia da Informação** na **Conservare Gráfica**, com atuação prática em **desenvolvimento de sistemas, infraestrutura e operação**.
 
