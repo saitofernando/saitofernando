@@ -1,6 +1,6 @@
 ### Saito Fernando
 
-Fundador da **[SAITOHUB](https://saitohub.com.br)** e supervisor de TI na Conservare Gráfica. Trabalho com **software sob medida, design e IA para empresas**: aplicativos para web, desktop e celular, automações, integrações e infraestrutura.
+Fundador da **[SAITOHUB](https://saitohub.com.br)** e coordenador de TI na Conservare Gráfica. Trabalho com **software sob medida, design e IA para empresas**: aplicativos para web, desktop e celular, automações, integrações e infraestrutura.
 
 Desenvolvo principalmente com TypeScript, Rust e Python, do planejamento à implantação. Também crio identidades visuais e materiais gráficos e digitais.
 
